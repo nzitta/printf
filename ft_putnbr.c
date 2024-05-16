@@ -1,5 +1,5 @@
 
-void ft_putchar(char c);
+int ft_putchar(char c);
 void	ft_putnbr(int n)
 {
 	long long	num;
